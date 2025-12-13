@@ -1,5 +1,7 @@
 # Vend-nier – OSU Vending Machine Finder
 
+https://vend-nier.onrender.com/
+
 A Flask web application that helps students and staff at The Ohio State University find nearby vending machines, filter by services and payment methods, see them on a map, and get walking directions – with a Gemini-powered natural language helper.
 
 ## Features
